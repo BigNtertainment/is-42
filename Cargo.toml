@@ -7,7 +7,7 @@ license = "MIT"
 repository="https://github.com/BigNtertainment/is-42"
 readme="README.md"
 keywords=["number", "42", "equality"]
-categories=["alghorithms"]
+categories=["algorithms"]
 include = ["src/", "README.md"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
