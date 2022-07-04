@@ -1,8 +1,8 @@
 [package]
 name = "is_42"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
-description = "A fun game where you guess what number the computer has chosen."
+description = "Simple, blazingly fast way of checking if a variable is equal to 42."
 license = "MIT"
 repository="https://github.com/BigNtertainment/is-42"
 readme="README.md"
